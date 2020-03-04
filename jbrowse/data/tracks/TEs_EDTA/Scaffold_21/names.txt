@@ -1,0 +1,8 @@
+[["DNA/DTC"],"TEs_EDTA","DNA/DTC","Scaffold_21",379,1116]
+[["DNA/Helitron"],"TEs_EDTA","DNA/Helitron","Scaffold_21",6562,6705]
+[["DNA/Helitron"],"TEs_EDTA","DNA/Helitron","Scaffold_21",27056,27199]
+[["DNA/Helitron"],"TEs_EDTA","DNA/Helitron","Scaffold_21",28424,28567]
+[["DNA/Helitron"],"TEs_EDTA","DNA/Helitron","Scaffold_21",48950,49093]
+[["DNA/DTC"],"TEs_EDTA","DNA/DTC","Scaffold_21",54582,55322]
+[["DNA/DTC"],"TEs_EDTA","DNA/DTC","Scaffold_21",68044,68783]
+[["DNA/Helitron"],"TEs_EDTA","DNA/Helitron","Scaffold_21",74261,74404]

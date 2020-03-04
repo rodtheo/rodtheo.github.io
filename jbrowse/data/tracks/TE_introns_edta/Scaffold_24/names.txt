@@ -1,0 +1,3 @@
+[["LTR/unknown"],"TE_introns_edta","LTR/unknown","Scaffold_24",14115,14675]
+[["LTR/Gypsy"],"TE_introns_edta","LTR/Gypsy","Scaffold_24",14534,14695]
+[["LTR/Gypsy"],"TE_introns_edta","LTR/Gypsy","Scaffold_24",15263,15552]

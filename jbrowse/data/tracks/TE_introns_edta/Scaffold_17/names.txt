@@ -1,0 +1,5 @@
+[["LTR/Copia"],"TE_introns_edta","LTR/Copia","Scaffold_17",85549,86212]
+[["DNA/DTT"],"TE_introns_edta","DNA/DTT","Scaffold_17",87471,87602]
+[["DNA/DTM"],"TE_introns_edta","DNA/DTM","Scaffold_17",109377,109637]
+[["DNA/DTA"],"TE_introns_edta","DNA/DTA","Scaffold_17",118175,118573]
+[["DNA/DTA"],"TE_introns_edta","DNA/DTA","Scaffold_17",118572,118943]

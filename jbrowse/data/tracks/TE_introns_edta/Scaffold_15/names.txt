@@ -1,0 +1,3 @@
+[["DNA/DTA"],"TE_introns_edta","DNA/DTA","Scaffold_15",14839,15201]
+[["DNA/DTA"],"TE_introns_edta","DNA/DTA","Scaffold_15",15265,15565]
+[["DNA/DTA"],"TE_introns_edta","DNA/DTA","Scaffold_15",15569,15737]

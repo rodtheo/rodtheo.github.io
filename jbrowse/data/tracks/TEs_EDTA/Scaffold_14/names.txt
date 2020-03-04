@@ -1,0 +1,2 @@
+[["DNA/DTM"],"TEs_EDTA","DNA/DTM","Scaffold_14",60694,61335]
+[["DNA/Helitron"],"TEs_EDTA","DNA/Helitron","Scaffold_14",232175,232349]

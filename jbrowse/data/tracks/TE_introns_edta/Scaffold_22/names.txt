@@ -1,0 +1,8 @@
+[["DNA/DTT"],"TE_introns_edta","DNA/DTT","Scaffold_22",2771,3016]
+[["DNA/DTM"],"TE_introns_edta","DNA/DTM","Scaffold_22",3882,4051]
+[["DNA/DTC"],"TE_introns_edta","DNA/DTC","Scaffold_22",3918,4074]
+[["DNA/DTC"],"TE_introns_edta","DNA/DTC","Scaffold_22",4844,4954]
+[["DNA/DTC"],"TE_introns_edta","DNA/DTC","Scaffold_22",5177,5294]
+[["MITE/DTM"],"TE_introns_edta","MITE/DTM","Scaffold_22",8065,8453]
+[["MITE/DTM"],"TE_introns_edta","MITE/DTM","Scaffold_22",8454,8609]
+[["LTR/Copia"],"TE_introns_edta","LTR/Copia","Scaffold_22",8999,9132]

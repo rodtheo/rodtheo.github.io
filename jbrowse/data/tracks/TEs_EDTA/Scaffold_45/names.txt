@@ -1,0 +1,2 @@
+[["LTR/Gypsy"],"TEs_EDTA","LTR/Gypsy","Scaffold_45",1,1021]
+[["LTR/unknown"],"TEs_EDTA","LTR/unknown","Scaffold_45",620,1084]

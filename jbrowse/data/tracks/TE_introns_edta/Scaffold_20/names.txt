@@ -1,0 +1,2 @@
+[["DNA/Helitron"],"TE_introns_edta","DNA/Helitron","Scaffold_20",35076,35536]
+[["DNA/Helitron"],"TE_introns_edta","DNA/Helitron","Scaffold_20",36487,36736]

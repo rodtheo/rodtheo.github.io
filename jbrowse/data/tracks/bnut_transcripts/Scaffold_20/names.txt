@@ -1,0 +1,2 @@
+[["Beexcv11011634m","PAC4GC:50518274","protein kinase activity","Salt stress response/antifungal","Non-specific serine/threonine protein kinase.","Protein tyrosine kinase","protein phosphorylation",["GO:0004672","GO:0006468"],["PANTHER:PTHR27002:SF181","SIGNALP:SignalP-noTM","PFAM:PF01657","EC:2.7.11.1","PFAM:PF07714","PANTHER:PTHR27002"]],"bnut_transcripts","Beexcv11011634m","Scaffold_20",34307,38609]
+[["Beexcv11011635m","PAC4GC:50518273"],"bnut_transcripts","Beexcv11011635m","Scaffold_20",55655,59185]
