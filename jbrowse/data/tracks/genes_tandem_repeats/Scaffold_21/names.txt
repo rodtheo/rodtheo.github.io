@@ -1,0 +1,3 @@
+[["Beexcv11011668m.g","Beexcv11011668m.g","structural constituent of ribosome","30S RIBOSOMAL PROTEIN S12","small subunit ribosomal protein S7","ribosome","30S RIBOSOMAL PROTEIN S12 FAMILY MEMBER","intracellular","Ribosomal protein S12/S23","translation",["GO:0003735","GO:0005840","GO:0005622","GO:0006412"],["PANTHER:PTHR11652:SF1","KEGGORTH:K02992","PANTHER:PTHR11652","PFAM:PF00164"]],"genes_tandem_repeats","Beexcv11011668m.g","Scaffold_21",60501,60966]
+[["Beexcv11011669m.g","Beexcv11011669m.g"],"genes_tandem_repeats","Beexcv11011669m.g","Scaffold_21",60501,60966]
+[["Beexcv11011672m.g","Beexcv11011672m.g"],"genes_tandem_repeats","Beexcv11011672m.g","Scaffold_21",62404,62871]

@@ -50,6 +50,18 @@
          "trackType" : "CanvasFeatures",
          "type" : "CanvasFeatures",
          "urlTemplate" : "tracks/TEs_EDTA/{refseq}/trackData.json"
+      },
+      {
+         "compress" : 0,
+         "key" : "genes_tandem_repeats",
+         "label" : "genes_tandem_repeats",
+         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
+         "style" : {
+            "className" : "feature"
+         },
+         "trackType" : "CanvasFeatures",
+         "type" : "CanvasFeatures",
+         "urlTemplate" : "tracks/genes_tandem_repeats/{refseq}/trackData.json"
       }
    ]
 }

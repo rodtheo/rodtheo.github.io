@@ -1,0 +1,1 @@
+[["Beexcv11010138m.g","Beexcv11010138m.g","Sieve element occlusion N-terminus",["PFAM:PF14576","PANTHER:PTHR33232"]],"genes_tandem_repeats","Beexcv11010138m.g","Scaffold_17",5396,8519]
